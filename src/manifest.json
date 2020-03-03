@@ -56,6 +56,7 @@
         "/img/*",
         "/content_script.css",
         "/fonts/*",
+        "content_script_*.js",
         "sidebar.html"
     ],
     "omnibox": {
